@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-ghpages/static/css/main.1f4fb573.chunk.css",
+    "main.js": "/weather-ghpages/static/js/main.11115d1b.chunk.js",
+    "main.js.map": "/weather-ghpages/static/js/main.11115d1b.chunk.js.map",
+    "runtime-main.js": "/weather-ghpages/static/js/runtime-main.0aceb482.js",
+    "runtime-main.js.map": "/weather-ghpages/static/js/runtime-main.0aceb482.js.map",
+    "static/js/2.9141df50.chunk.js": "/weather-ghpages/static/js/2.9141df50.chunk.js",
+    "static/js/2.9141df50.chunk.js.map": "/weather-ghpages/static/js/2.9141df50.chunk.js.map",
+    "index.html": "/weather-ghpages/index.html",
+    "precache-manifest.09e008145a4ddf70f39219d57fec26e7.js": "/weather-ghpages/precache-manifest.09e008145a4ddf70f39219d57fec26e7.js",
+    "service-worker.js": "/weather-ghpages/service-worker.js",
+    "static/css/main.1f4fb573.chunk.css.map": "/weather-ghpages/static/css/main.1f4fb573.chunk.css.map",
+    "static/js/2.9141df50.chunk.js.LICENSE.txt": "/weather-ghpages/static/js/2.9141df50.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-ghpages/static/media/cold.eb0cc7e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aceb482.js",
+    "static/js/2.9141df50.chunk.js",
+    "static/css/main.1f4fb573.chunk.css",
+    "static/js/main.11115d1b.chunk.js"
+  ]
+}

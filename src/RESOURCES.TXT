@@ -1,0 +1,11 @@
+https://github.com/K-G-PRAJWAL/ReactJS-Projects/tree/master/weather-app/src
+
+https://docs.rapidapi.com/docs/basics-creating-a-project#subscribing-to-an-api
+
+
+https://dev.to/kgprajwal/learn-react-by-building-a-weather-app-3229
+
+
+Color Picker:
+https://bvgsoftware.com/posts/how-to-build-a-color-picker
+https://codesandbox.io/s/color-picker-alpha-bar-ro198?file=/src/config.js
